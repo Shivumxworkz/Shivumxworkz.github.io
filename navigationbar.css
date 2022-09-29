@@ -1,6 +1,17 @@
 body{
     background-color: darkseagreen;
     }   
+    ol{
+      background-color: darkgreen;
+      list-style-type:none;
+      display:flex;
+      width:fit-content;
+      margin: 0;
+      padding:0;
+      border: 1px solid darkgreen;
+    } .shivu{ 
+      border-right:1px solid #555 ;
+    }
    ul{
     list-style-type:none;
     margin: 0;
@@ -36,6 +47,6 @@ body{
     }
     .horizontal{
     float: left;
-    border-left:1px solid #555 ;
+    border-left: 1px solid #555 ;
     /* display: inline; */
     }
