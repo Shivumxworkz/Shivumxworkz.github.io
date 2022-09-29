@@ -46,6 +46,30 @@
     border: 3px solid red;
     height: 100px;
     width: 200px;
+    display: inline-block;
+ }
+ .rect1{
+   border: 3px solid red;
+   height: 100px;
+   width: 200px;
+display: inline-block;
+ }
+ .rect2{
+   border: 3px solid blue;
+   height: 100px;
+   width: 200px;
+  display: inline-block;
+  position: relative;
+ }
+ .rect3{
+   border: 3px solid rgba(177, 197, 26, 0.776);
+   height: 40px;
+   width: 70px;
+   margin: 25px;
+   padding-left: 30px;
+   padding-right:  30px ;
+
+
  }
  
 

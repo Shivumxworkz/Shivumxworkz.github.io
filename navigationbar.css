@@ -1,0 +1,41 @@
+body{
+    background-color: darkseagreen;
+    }   
+   ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #555;
+    width: 93px;
+
+    }
+    li a{
+    display:grid;
+  background-color: darkgray;
+  /* width:60px; */
+  padding:8px 16px;
+   text-decoration:none; 
+    }
+    li a:hover:not(.active){
+    background-color: #555;
+    color: aliceblue;
+    }
+    li{
+    text-align: center;
+    border-bottom: 1px solid #555;
+    }
+    li:last-child {
+    border-bottom: none;
+    }
+    .hor{
+   
+    width:fit-content;
+    height: 34px;
+    
+ 
+    }
+    .horizontal{
+    float: left;
+    border-left:1px solid #555 ;
+    /* display: inline; */
+    }

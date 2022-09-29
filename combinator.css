@@ -1,0 +1,19 @@
+/*descendent selector*/
+div p{
+    color:rgb(255, 0, 0);
+}
+/*child selector*/
+ div > p{
+    color: rgb(13, 0, 255);
+}
+p{
+    color: brown;
+}
+/*Adjacent sibling selector*/
+div+p{
+    color: aqua;
+}
+/*General sibling Selector*/
+div~p{
+    color: chartreuse;
+}
