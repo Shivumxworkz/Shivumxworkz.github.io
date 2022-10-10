@@ -1,0 +1,55 @@
+
+*{
+    margin: 8px;
+    padding: 0px;
+}
+
+h1{
+    background-color: aquamarine;
+    font-size:400%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-style:italic;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 30%;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-top: 5px;
+}
+body{
+    background-size: 10%;
+    border-style: dashed;
+    border-color: blue;
+    background-color:bisque;
+}
+p{
+    font-size: 20px;
+    padding-left: 40px;
+}
+.shivu{
+    padding-top:1%;
+}
+img{
+    position:relative;
+    float: right;
+    border-radius: 30%;
+    margin-top: auto;
+}
+h4{
+    background-color:aquamarine;
+    text-align:center;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 1%;
+    margin-right: 80%;
+    border-radius: 20%;
+    border:3px solid dimgray;
+    border-radius: 20%;
+}
+.margin{
+    margin-left: 0%;
+}
+table{
+    border: 2px solid darkgreen;
+}
